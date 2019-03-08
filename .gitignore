@@ -1,5 +1,5 @@
-/obj
-/Properties
-/bin
+obj/
+Properties/
+bin/
 *.sln
 .sln
