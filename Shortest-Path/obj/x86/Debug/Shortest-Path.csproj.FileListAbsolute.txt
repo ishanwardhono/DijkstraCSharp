@@ -1,7 +1,0 @@
-D:\Ishan\Document\Kuliah\Semester5\Desain Analisis & Algoritma\Shortest-Path\Shortest-Path\obj\x86\Debug\Shortest_Path.MainForm.resources
-D:\Ishan\Document\Kuliah\Semester5\Desain Analisis & Algoritma\Shortest-Path\Shortest-Path\bin\Debug\Shortest-Path.exe
-D:\Ishan\Document\Kuliah\Semester5\Desain Analisis & Algoritma\Shortest-Path\Shortest-Path\bin\Debug\Shortest-Path.pdb
-D:\Ishan\Document\Kuliah\Semester5\Desain Analisis & Algoritma\Shortest-Path\Shortest-Path\obj\x86\Debug\Shortest-Path.exe
-D:\Ishan\Document\Kuliah\Semester5\Desain Analisis & Algoritma\Shortest-Path\Shortest-Path\obj\x86\Debug\Shortest-Path.pdb
-D:\Ishan\Document\Kuliah\Semester5\Desain Analisis & Algoritma\Shortest-Path\Shortest-Path\obj\x86\Debug\Shortest-Path.csprojResolveAssemblyReference.cache
-D:\Ishan\Document\Kuliah\Semester5\Desain Analisis & Algoritma\Shortest-Path\Shortest-Path\obj\x86\Debug\Shortest-Path.csproj.GenerateResource.Cache
